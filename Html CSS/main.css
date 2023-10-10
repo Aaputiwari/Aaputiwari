@@ -34,3 +34,16 @@
     width: 100px;
     background-color: rgb(10, 98, 69);
 }
+.box {
+    height:300px;
+    width: 300px;
+    background-color: gold;
+    justify-content: center;
+}
+.SitasBox
+{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(244, 12, 128);
+    margin: auto;
+}
