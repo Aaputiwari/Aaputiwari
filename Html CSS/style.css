@@ -1,0 +1,23 @@
+.head {
+    border-top: 5px solid green;
+    border-bottom: 5px solid yellow;
+}
+.paragraph1 {
+    font-family: "gabarito"
+}
+pre {
+    width: 500px;
+
+}
+.box1 {
+    width: 300px;
+    height: 400px;
+    background-color: blue;
+    margin: 50px;
+    margin: top 30px;
+    margin: auto;
+    border: 1px solid rebeccapurpl;
+    width: 200px;
+    height: 150px;
+    background-color: rgb(12, 126, 226);
+}

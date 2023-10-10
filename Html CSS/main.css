@@ -1,0 +1,36 @@
+.box1 {
+    height: 100px;
+    width: 100px;
+    background-color:aliceblue;
+    position:fixed;
+    background-image:url(../Image/Img_2031007_)
+}
+/* Flex Box */
+.flexBoxDesign {
+    height: 300px;
+    width: 600px;
+    margin-top: 50px;
+    background-color: beige;
+    display: flex;
+    justify-content: space-evenly;
+}
+.flex1 {
+    height: 100px;
+    width: 100px;
+    background-color: rgb(10, 248, 169);
+}
+.flex2 {
+    height: 100px;
+    width: 100px;
+    background-color: rgb(8, 41, 88);
+}
+.flex3 {
+    height: 100px;
+    width: 100px;
+    background-color: rgb(18, 27, 24);
+}
+.flex4 {
+    height: 100px;
+    width: 100px;
+    background-color: rgb(10, 98, 69);
+}
