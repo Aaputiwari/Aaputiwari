@@ -1,4 +1,4 @@
-erator/main/gifs/coder.gif" alt="Coding Animation">
+
 </div>
 
 <div align="center">
